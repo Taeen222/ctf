@@ -22,15 +22,15 @@ Command	Description
 
 You can run Brainfuck code in these online interpreters:
 
-https://copy.sh/brainfuck/
+--https://copy.sh/brainfuck/
 
-https://tio.run/#brainfuck
+--https://tio.run/#brainfuck
 
-https://www.dcode.fr/brainfuck-language
+--https://www.dcode.fr/brainfuck-language
 
-https://md5decrypt.net/en/Brainfuck-translator/
+--https://md5decrypt.net/en/Brainfuck-translator/
 
-https://www.cachesleuth.com/bfook.html
+--https://www.cachesleuth.com/bfook.html
 
 
 
@@ -87,6 +87,10 @@ Write a Malbolge program that outputs a flag string.
 Analyze a corrupted or partial Malbolge program and repair it.
 
 **Interpreter**: https://malbolge.doleczek.pl/ 
+
+
+
+
 
 
 ***PIET***
@@ -177,7 +181,7 @@ Decoder: https://www.dcode.fr/ook-language
          https://www.cachesleuth.com/bfook.html
          
          
-HexaHue:
+***HexaHue***:
 
 https://www.dcode.fr/hexahue-cipher
 https://www.boxentriq.com/code-breaking/hexahue
