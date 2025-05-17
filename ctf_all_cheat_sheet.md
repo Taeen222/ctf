@@ -1020,6 +1020,7 @@ A list of interesting things I can use one day or have already used in the past.
 * [wireless-tools](extra/wireless-tools.md)
 
 https://github.com/RajChowdhury240/CTF-CheatSheet?tab=readme-ov-file
+forensics: https://cugu.github.io/awesome-forensics/#steganography
 
 -------------------------
 
