@@ -1019,8 +1019,9 @@ A list of interesting things I can use one day or have already used in the past.
 * [threat-detection](extra/threat-detection.md)
 * [wireless-tools](extra/wireless-tools.md)
 
-https://github.com/RajChowdhury240/CTF-CheatSheet?tab=readme-ov-file
-forensics: https://cugu.github.io/awesome-forensics/#steganography
+All: https://github.com/RajChowdhury240/CTF-CheatSheet?tab=readme-ov-file  \n
+forensics: https://cugu.github.io/awesome-forensics/#steganography \n
+All: https://github.com/Adamkadaban/CTFs?tab=readme-ov-file#fuzzing-input-fields \n
 
 -------------------------
 
